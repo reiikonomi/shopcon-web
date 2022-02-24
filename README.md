@@ -18,4 +18,6 @@ Me poshte gjendet linku per te vizituar faqen.
 
 Me poshte gjendet linku i kodit te back-end.
 
+
 - [Me kliko per te shkuar ne repo-n e kodit te back-end](https://github.com/onomdev/shopcon-backend)
+- [Me kliko per te pare rreth problemeve qe mund te hasni gjate eksperiences suaj ne aplikacion](https://github.com/onomdev/shopcon-backend#readme)
