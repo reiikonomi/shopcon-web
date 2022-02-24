@@ -3,7 +3,7 @@
 Versioni website i platformes Shopcon. 
 
 
-## Getting Started
+## Website
 
 Me poshte gjendet linku per te vizituar faqen.
 
