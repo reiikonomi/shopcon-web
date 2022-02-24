@@ -1,6 +1,11 @@
 # shopcon_web
 
 Versioni website i platformes Shopcon. 
+Nga kodi qe eshte shkruar per te krijuar kete faqe jane hequr disa detaje te cilat jane te lidhura me sigurine. 
+Te tilla si:
+- Api Key
+- User authentication details
+- Firebase app details
 
 
 ## Website
