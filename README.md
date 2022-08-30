@@ -1,8 +1,7 @@
 # shopcon_web
 
-Versioni website i platformes Shopcon. 
-Nga kodi qe eshte shkruar per te krijuar kete faqe jane hequr disa detaje te cilat jane te lidhura me sigurine. 
-Te tilla si:
+Web version of Shopcon platform.
+For security reasons the following details have been removed from the code. 
 - Api Key
 - User authentication details
 - Firebase app details
@@ -10,14 +9,14 @@ Te tilla si:
 
 ## Website
 
-Me poshte gjendet linku per te vizituar faqen.
+Here is the link to the website.
 
-- [Me kliko per te shkuar ne faqen e webit](https://shopcon.onomdev.com/#/)
+- [Click me](https://shopcon.onomdev.com/#/)
 
-### Back-end ne Node.js 
+### Back-end written in Node.js 
 
-Me poshte gjendet linku i kodit te back-end.
+Here is the link to the back-end code.
 
 
-- [Me kliko per te shkuar ne repo-n e kodit te back-end](https://github.com/onomdev/shopcon-backend)
-- [Me kliko per te pare rreth problemeve qe mund te hasni gjate eksperiences suaj ne aplikacion](https://github.com/onomdev/shopcon-backend#readme)
+- [Click me to go to the back-end repo](https://github.com/onomdev/shopcon-backend)
+- [Click me to see the possible issues you can encounter](https://github.com/onomdev/shopcon-backend#readme)
